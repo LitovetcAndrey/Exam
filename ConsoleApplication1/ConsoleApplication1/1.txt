@@ -1,0 +1,20 @@
+Question 01 bool=
+ false or true
+  3
+  4
+1
+Question 02 char=
+-128  to 127
+ 255
+ >
+1
+Question 03 short
+-32768 to 32767
+65535
+ 18800
+1
+Question 04 int
+-2147483648 to 2147483647
+ 4294967295
+ 0
+1
